@@ -5,7 +5,7 @@
     "codex_reference": "ETH-LEGACY-2024",
     "symbolic_glyph": "",
     "version": "1.0",
-    "arweave_link": "",
+    "arweave_link": "<CID_GENESIS>",
     "schema": "doctrinescrollschema.json"
   },
   {
@@ -14,7 +14,7 @@
     "codex_reference": "SAFE-GATE-019",
     "symbolic_glyph": "",
     "version": "1.0",
-    "arweave_link": "",
+    "arweave_link": "<CID_SAFE>",
     "schema": "doctrinescrollschema.json"
   }
 ]

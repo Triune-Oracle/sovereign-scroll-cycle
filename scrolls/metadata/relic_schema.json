@@ -5,7 +5,7 @@
     "codex_reference": "COW-GUARD-ALPHA",
     "symbolic_glyph": "",
     "version": "1.0",
-    "arweave_link": "",
+    "arweave_link": "<CID_RELIC>",
     "schema": "relic_schema.json"
   },
   {
@@ -14,7 +14,7 @@
     "codex_reference": "GNO-DEFENSE-041",
     "symbolic_glyph": "",
     "version": "1.0",
-    "arweave_link": "",
+    "arweave_link": "<CID_GNOSIS>",
     "schema": "relic_schema.json"
   }
 ]
