@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Relic: CoW Protocol Guardian",
+    "ritual_type": "guardian",
+    "codex_reference": "COW-GUARD-ALPHA",
+    "symbolic_glyph": "",
+    "version": "1.0",
+    "arweave_link": "<CID_RELIC>",
+    "schema": "relic_schema.json"
+  },
+  {
+    "title": "Gnosis Shieldbearer",
+    "ritual_type": "defense",
+    "codex_reference": "GNO-DEFENSE-041",
+    "symbolic_glyph": "",
+    "version": "1.0",
+    "arweave_link": "<CID_GNOSIS>",
+    "schema": "relic_schema.json"
+  }
+]

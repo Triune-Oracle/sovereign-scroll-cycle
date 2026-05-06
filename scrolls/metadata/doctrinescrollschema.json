@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Genesis Scroll",
+    "ritual_type": "legacy",
+    "codex_reference": "ETH-LEGACY-2024",
+    "symbolic_glyph": "",
+    "version": "1.0",
+    "arweave_link": "<CID_GENESIS>",
+    "schema": "doctrinescrollschema.json"
+  },
+  {
+    "title": "Safe Haven",
+    "ritual_type": "sanctuary",
+    "codex_reference": "SAFE-GATE-019",
+    "symbolic_glyph": "",
+    "version": "1.0",
+    "arweave_link": "<CID_SAFE>",
+    "schema": "doctrinescrollschema.json"
+  }
+]
